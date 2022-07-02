@@ -1,0 +1,10 @@
+
+$chartHeight: 800px;
+
+.pingCanvas {
+  height: $chartHeight;
+}
+
+.pingChartContainer {
+  max-width: calc($chartHeight*16/9);
+}
